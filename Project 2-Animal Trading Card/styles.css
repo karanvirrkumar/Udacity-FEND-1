@@ -1,0 +1,57 @@
+/* add your CSS here */
+img {
+    border: 10px solid yellow;
+    width: 300px;
+    border-image: url(tiger.jpg)10 round;
+    margin: 25px;
+}
+
+.tintro {
+    font-style: italic;
+}
+
+li {
+    
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+.tiger {
+    
+    background-color: cornsilk;
+    max-width: 380px;
+    border: 2px solid blue;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 10px grey;
+}
+
+.whole {
+    padding: 5px;
+    background-color: darksalmon;
+    border: 2px solid black;
+    max-width: 300px;
+    margin: 0px 0px 10px 25px;
+    box-shadow: 3px 3px #CAC3C1;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    padding: 0px;
+    margin: 5px;
+}
+
+
+
+body {
+    font-family: sans-serif;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;    
+}
